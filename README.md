@@ -1,6 +1,6 @@
 # SimpleChartExample
 
-A Simple chart example that draws a sin graph
+A Simple chart example that draws a sine graph.
 
 It uses https://github.com/AnyChart/AnyChart-Android
 
