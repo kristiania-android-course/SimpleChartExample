@@ -4,6 +4,9 @@ A Simple chart example that draws a sine graph.
 
 It uses https://github.com/AnyChart/AnyChart-Android
 
+![Screenshot](https://github.com/kristiania-android-course/SimpleChartExample/blob/master/screenshot.jpeg)
+
+
 ## To add AnyChart-Android to your project
 
 ### Gradle
